@@ -1,2 +1,5 @@
 Project:
-Develop a program capable of reading ththat outputs the factors f, a, and k for any of the heights 
+Global Wind Energy Atlas: look at this website https://globalwindatlas.info/en/Links to an external site. . It is possible to collect wind data (GWC) for any location in the world. Your project will be: 
+1) Choose two wind farms (real ones), find the latitude/longitude online, and collect GWC data for that (.lib file); 
+2) Develop a program capable of reading that outputs the factors f, a, and k for any of the heights (look at the FAQ https://globalwindatlas.info/en/about/faqLinks to an external site. for further information). 
+3) Finalize your program by coding an output that creates a PyWake site (just like PyWake does in the original package) for those locations.
